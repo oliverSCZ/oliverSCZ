@@ -8,7 +8,7 @@
 
 - 🔭 I am currently studying at **[Microverse](https://microverse.org/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
