@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am currently studying at **[Microverse](https://microverse.org/)**
+- 🔭 I studied at **[Microverse](https://microverse.org/)**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **new technologies**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
